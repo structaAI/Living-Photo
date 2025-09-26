@@ -12,3 +12,7 @@ logs/
 models/
 # Database
 database/
+# Node modules (if using Node.js for frontend)
+node_modules/
+# React build files (if using React for frontend)
+build/
