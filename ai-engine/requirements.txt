@@ -1,1 +1,19 @@
+# Web Server
+fastapi
+uvicorn[standard]
 
+# Core AI & ML
+torch
+diffusers
+transformers
+accelerate
+
+# Upscaling Model
+realesrgan
+
+# Utilities
+Pillow           # For image processing
+pydantic         # For data models in FastAPI
+python-dotenv    # For loading .env config files
+numpy            
+imageio[ffmpeg]
