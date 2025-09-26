@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+# FastAPI
+__pycache__/
+*.pyc
+# Environment variables
+*.env 
+.env*
+# Logs
+logs/
+# Models
+models/
+# Database
+database/
